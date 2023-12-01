@@ -1,9 +1,3 @@
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+rubber+duck+debugging+page!&center=true&size=17](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=welcome+to+my+page">
-  </a>
-</h1>
 <h1 align="center">Hi there :wave: I'm Mehmet  </h1>
 
 Here are some ideas to get you started:
